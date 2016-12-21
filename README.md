@@ -1,6 +1,6 @@
 cs56-games-minesweeper
 ======================
-
+This code is from a legacy project for an Advanced Applications Programming Course from Summer 2016.
 
 Migrated from: https://foo.cs.ucsb.edu/56mantis/view.php?id=0000900 by http://github.com/pconrad
 
